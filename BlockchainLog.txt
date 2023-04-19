@@ -1,0 +1,269 @@
+C:\Users\preei\Documents\CSC435\blockchain\bc\bcsub>java -classpath .;gson-2.8.2.jar Blockchain 0
+Running now
+
+Xu Guo's Block Coordination Framework. Use Control-C to stop the process.
+
+Using processID 0
+
+Starting Key Server input thread using 4710
+Starting the Unverified Block Server input thread using 4820
+Starting the Blockchain server input thread using 4930
+Got key: FakeKeyProcess0
+Sending UVBs to process 0...
+Received UVB:  2022-05-25.23:00:59.3 13. 2022-05-25.23:00:59.3 Wayne Blaine 1942.07.07 123-45-6777 Measles WaitToGetBetter CodLiverOil
+Received UVB:  2022-05-25.23:00:59.1 11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey
+Received UVB:  2022-05-25.23:00:59.0 10. 2022-05-25.23:00:59.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin
+Sending UVBs to process 1...
+Received UVB:  2022-05-25.23:00:59.2 12. 2022-05-25.23:00:59.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers
+Got key: FakeKeyProcess1
+Sending UVBs to process 2...
+Received UVB:  2022-05-25.23:01:02.0 20. 2022-05-25.23:01:02.0 Rita Vita  1992.01.31 999-456-789 ObessivePersonality TryToRelax Ibuprofen
+Received UVB:  2022-05-25.23:01:02.1 21. 2022-05-25.23:01:02.1 Wei  Xu  1996.03.22 123-456-333 Shingles WaitForRelief Zovirax
+************Process 0   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey verified by P2 at time 914]
+[First block]
+
+
+Received UVB:  2022-05-25.23:01:02.3 23. 2022-05-25.23:01:02.3 Bruce Lee 1940.11.27 456-789-123 SoreStomach LessCombat Vicodine
+Starting the Unverified Block Priority Queue Consumer thread.
+
+Received UVB:  2022-05-25.23:01:02.2 22. 2022-05-25.23:01:02.2 Sally McCutty 1970.01.01 123-456-999 Migraine IcePack Almotriptan
+************Process 0   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[10. 2022-05-25.23:00:59.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin verified by P0 at time 177]
+
+[11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey verified by P2 at time 914]
+[First block]
+
+
+************Process 0   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[12. 2022-05-25.23:00:59.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers verified by P0 at time 352]
+
+[10. 2022-05-25.23:00:59.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin verified by P0 at time 177]
+
+[11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey verified by P2 at time 914]
+[First block]
+
+
+************Process 0   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[13. 2022-05-25.23:00:59.3 Wayne Blaine 1942.07.07 123-45-6777 Measles WaitToGetBetter CodLiverOil  verified by P0 at time 952]
+
+[12. 2022-05-25.23:00:59.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers verified by P0 at time 352]
+
+[10. 2022-05-25.23:00:59.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin verified by P0 at time 177]
+
+[11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey verified by P2 at time 914]
+[First block]
+
+
+Got key: FakeKeyProcess2
+Received UVB:  2022-05-25.23:01:33.1 31. 2022-05-25.23:01:33.1 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey
+Received UVB:  2022-05-25.23:01:33.0 30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin
+Received UVB:  2022-05-25.23:01:33.2 32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids
+Received UVB:  2022-05-25.23:01:33.3 33. 2022-05-25.23:01:33.3 Joe DiMaggio 1914.11.25  111-22-3333 SoreKnees RestFromSports Aspirin
+         --NEW BLOCKCHAIN--
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+
+************Process 0   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids verified by P0 at time 140]
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+
+************Process 0   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[31. 2022-05-25.23:01:33.1 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey verified by P2 at time 793]
+
+[32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids verified by P0 at time 140]
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+
+************Process 0   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[33. 2022-05-25.23:01:33.3 Joe DiMaggio 1914.11.25  111-22-3333 SoreKnees RestFromSports Aspirin verified by P1 at time 873]
+
+[31. 2022-05-25.23:01:33.1 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey verified by P2 at time 793]
+
+[32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids verified by P0 at time 140]
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+C:\Users\preei\Documents\CSC435\blockchain\bc\bcsub>java -classpath .;gson-2.8.2.jar Blockchain 1
+Running now
+
+Xu Guo's Block Coordination Framework. Use Control-C to stop the process.
+
+Using processID 1
+
+Starting Key Server input thread using 4711
+Starting the Blockchain server input thread using 4931
+Starting the Unverified Block Server input thread using 4821
+Received UVB:  2022-05-25.23:00:59.3 13. 2022-05-25.23:00:59.3 Wayne Blaine 1942.07.07 123-45-6777 Measles WaitToGetBetter CodLiverOil
+Received UVB:  2022-05-25.23:00:59.1 11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey
+Got key: FakeKeyProcess1
+Received UVB:  2022-05-25.23:00:59.0 10. 2022-05-25.23:00:59.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin
+Received UVB:  2022-05-25.23:00:59.2 12. 2022-05-25.23:00:59.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers
+Sending UVBs to process 0...
+************Process 1   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey verified by P2 at time 914]
+[First block]
+
+
+Sending UVBs to process 1...
+Received UVB:  2022-05-25.23:01:02.0 20. 2022-05-25.23:01:02.0 Rita Vita  1992.01.31 999-456-789 ObessivePersonality TryToRelax Ibuprofen
+************Process 1   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[10. 2022-05-25.23:00:59.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin verified by P0 at time 177]
+
+[11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey verified by P2 at time 914]
+[First block]
+
+
+Received UVB:  2022-05-25.23:01:02.1 21. 2022-05-25.23:01:02.1 Wei  Xu  1996.03.22 123-456-333 Shingles WaitForRelief Zovirax
+Received UVB:  2022-05-25.23:01:02.3 23. 2022-05-25.23:01:02.3 Bruce Lee 1940.11.27 456-789-123 SoreStomach LessCombat Vicodine
+Sending UVBs to process 2...
+Received UVB:  2022-05-25.23:01:02.2 22. 2022-05-25.23:01:02.2 Sally McCutty 1970.01.01 123-456-999 Migraine IcePack Almotriptan
+Starting the Unverified Block Priority Queue Consumer thread.
+
+************Process 1   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[12. 2022-05-25.23:00:59.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers verified by P0 at time 352]
+
+[10. 2022-05-25.23:00:59.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin verified by P0 at time 177]
+
+[11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey verified by P2 at time 914]
+[First block]
+
+
+         --NEW BLOCKCHAIN--
+
+[13. 2022-05-25.23:00:59.3 Wayne Blaine 1942.07.07 123-45-6777 Measles WaitToGetBetter CodLiverOil  verified by P0 at time 952]
+
+[12. 2022-05-25.23:00:59.2 Julie Wilson 1996.03.07 123-45-6999 Insomnia Exercise HotPeppers verified by P0 at time 352]
+
+[10. 2022-05-25.23:00:59.0 John Smith 1996.03.07 123-45-6789 Chickenpox BedRest aspirin verified by P0 at time 177]
+
+[11. 2022-05-25.23:00:59.1 Joe  Blow  1996.03.07 123-45-6888 Smallpox BedRest Whiskey verified by P2 at time 914]
+[First block]
+
+
+Got key: FakeKeyProcess2
+Received UVB:  2022-05-25.23:01:33.1 31. 2022-05-25.23:01:33.1 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey
+Received UVB:  2022-05-25.23:01:33.0 30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin
+Received UVB:  2022-05-25.23:01:33.2 32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids
+Received UVB:  2022-05-25.23:01:33.3 33. 2022-05-25.23:01:33.3 Joe DiMaggio 1914.11.25  111-22-3333 SoreKnees RestFromSports Aspirin
+************Process 1   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+
+************Process 1   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids verified by P0 at time 140]
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+
+         --NEW BLOCKCHAIN--
+
+[31. 2022-05-25.23:01:33.1 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey verified by P2 at time 793]
+
+[32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids verified by P0 at time 140]
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+
+************Process 1   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[33. 2022-05-25.23:01:33.3 Joe DiMaggio 1914.11.25  111-22-3333 SoreKnees RestFromSports Aspirin verified by P1 at time 873]
+
+[31. 2022-05-25.23:01:33.1 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey verified by P2 at time 793]
+
+[32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids verified by P0 at time 140]
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+C:\Users\preei\Documents\CSC435\blockchain\bc\bcsub>java -classpath .;gson-2.8.2.jar Blockchain 2
+Running now
+
+Xu Guo's Block Coordination Framework. Use Control-C to stop the process.
+
+Using processID 2
+
+Starting Key Server input thread using 4712
+Starting the Unverified Block Server input thread using 4822
+Starting the Blockchain server input thread using 4932
+Got key: FakeKeyProcess2
+Sending UVBs to process 0...
+Sending UVBs to process 1...
+Sending UVBs to process 2...
+Received UVB:  2022-05-25.23:01:33.1 31. 2022-05-25.23:01:33.1 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey
+Received UVB:  2022-05-25.23:01:33.0 30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin
+Received UVB:  2022-05-25.23:01:33.2 32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids
+Received UVB:  2022-05-25.23:01:33.3 33. 2022-05-25.23:01:33.3 Joe DiMaggio 1914.11.25  111-22-3333 SoreKnees RestFromSports Aspirin
+Starting the Unverified Block Priority Queue Consumer thread.
+
+         --NEW BLOCKCHAIN--
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+
+************Process 2   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids verified by P0 at time 140]
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+
+         --NEW BLOCKCHAIN--
+
+[31. 2022-05-25.23:01:33.1 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey verified by P2 at time 793]
+
+[32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids verified by P0 at time 140]
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
+
+
+************Process 2   slove the puzzle
+         --NEW BLOCKCHAIN--
+
+[33. 2022-05-25.23:01:33.3 Joe DiMaggio 1914.11.25  111-22-3333 SoreKnees RestFromSports Aspirin verified by P1 at time 873]
+
+[31. 2022-05-25.23:01:33.1 Abraham Lincoln 1809.02.12 444-45-6888 GreviousWound Surgery Whiskey verified by P2 at time 793]
+
+[32. 2022-05-25.23:01:33.2 John Kennedy 1917.05.29  333-45-6999 AddisonsDisease DrugTherapy Steroids verified by P0 at time 140]
+
+[30. 2022-05-25.23:01:33.0 Helen Keller 1880.06.27 666-45-6789 Arthritis WarmCloths Aspirin verified by P2 at time 826]
+[First block]
